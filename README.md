@@ -6,6 +6,8 @@ A lightweight, customizable circular countdown timer for web applications.
 
 [![View on CodePen](https://img.shields.io/badge/View%20on-CodePen-blue?style=for-the-badge&logo=codepen)](https://codepen.io/Ton-Miles/pen/mydVvqo)
 
+![Demo (opcional)](demo.gif)
+
 ## Installation
 
 To use the CountdownTimer, you need to include both the JavaScript and the CSS file in your HTML.
