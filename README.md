@@ -4,7 +4,7 @@ A lightweight, customizable circular countdown timer for web applications.
 
 ## Demo
 
-[![View on CodePen](https://img.shields.io/badge/View%20on-CodePen-blue?style=for-the-badge&logo=codepen)](https://codepen.io/Ton-Miles/pen/mydVvqo)
+[![View on CodePen](https://img.shields.io/badge/View%20on-CodePen-blue?style=for-the-badge&logo=codepen)](https://codepen.io/jeffoliveira977/pen/mydVvqo)
 
 ![Demo (opcional)](demo.gif)
 
