@@ -130,7 +130,6 @@ class CountdownTimer {
       this.timeLeft--;
     } else {
       clearInterval(this.interval);
-      this.progressCircle.style.transition = "none";
 
       if (this.settings.onComplete) {
         this.settings.onComplete();
@@ -164,6 +163,14 @@ class CountdownTimer {
    */
   resume() {
     this.startCountdown();
+  }
+  
+ /**
+   * Sets countdown duration.
+   */
+  setDuration(duration) {
+    this.settings.duration = duration;
+    this.reset();
   }
 
   /**
